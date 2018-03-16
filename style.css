@@ -15,7 +15,7 @@ body {
 	color: #777;
     content: #ebebeb;
     background: #777;
-    padding-top: 10px;           
+    padding-top: 10px;             
 }
 .sectionContent{
    background-color:#ebebeb;
@@ -36,7 +36,7 @@ section{
   background-color: #ebebeb;
   float: left;
   margin: 8px;
-  width: 55%;
+  width: 495px;
   padding: 20px; 
   border-style: none;
   height: 250px;
@@ -54,7 +54,7 @@ article{
 aside {
   background-color: #ebebeb;
   float: right;
-  width: 33%;
+  width: 350px;
   border-style: none;	
   padding: 20px;
   margin: 8px;
